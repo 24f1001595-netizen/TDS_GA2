@@ -11,7 +11,7 @@ app = FastAPI(title="Descriptive Statistics Service")
 # Configuration
 # ---------------------------------------------------------------------------
 ALLOWED_ORIGIN = "https://dash-i2p2d9.example.com"
-EMAIL = "your-email@example.com"  # <-- Replace with your logged-in email address
+EMAIL = "24f1001595@ds.study.iitm.ac.in"  # <-- Replace with your logged-in email address
 
 
 # ---------------------------------------------------------------------------
